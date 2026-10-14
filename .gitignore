@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+.vscode/
+
+# Personal helper for copying files to the university cluster
+cluster/
+
+# Datasets (~16 GB) and trained weights are not part of the repo, see README
+data/orig/
+data/rand/
+data/confidence/
+*.pkl
+weights/*
+!weights/.gitkeep
+
+# Per-sample prediction dumps (5-60 MB each)
+results/**/*.csv
+!results/eval/accuracy_sparsity.csv

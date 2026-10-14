@@ -1,0 +1,2618 @@
+Epoch 0:
+Accuracy:91.09814469489297
+Updating weights
+
+Epoch 1:
+Accuracy:92.05372564858338
+Updating weights
+
+Epoch 2:
+Accuracy:92.202390671055
+Updating weights
+
+Epoch 3:
+Accuracy:92.17317326779468
+
+Epoch 4:
+Accuracy:92.20067200027499
+
+Epoch 5:
+Accuracy:91.97982280504257
+
+Epoch 6:
+Accuracy:92.23246740970534
+Updating weights
+
+Epoch 7:
+Accuracy:92.36222705359675
+Updating weights
+
+Epoch 8:
+Accuracy:91.98497881738264
+
+Epoch 9:
+Accuracy:92.05200697780337
+
+Epoch 10:
+Accuracy:92.30894825941617
+
+Epoch 11:
+Accuracy:92.16114257233455
+
+Epoch 12:
+Accuracy:92.293480222396
+
+Epoch 13:
+Accuracy:92.31668227792625
+
+Epoch 14:
+Accuracy:92.17746994474473
+
+Epoch 15:
+Accuracy:92.23762342204539
+
+Epoch 16:
+Accuracy:92.21957737885519
+
+Epoch 17:
+Accuracy:92.28230886232588
+
+Epoch 18:
+Accuracy:92.32527563182634
+
+Epoch 19:
+Accuracy:92.32183829026631
+
+Epoch 20:
+Accuracy:92.19895332949497
+
+Epoch 21:
+Accuracy:92.38113243217695
+Updating weights
+
+Epoch 22:
+Accuracy:92.3673830659368
+
+Epoch 23:
+Accuracy:92.39745980458713
+Updating weights
+
+Epoch 24:
+Accuracy:92.40089714614717
+Updating weights
+
+Epoch 25:
+Accuracy:92.3759764198369
+
+Epoch 26:
+Accuracy:92.3020735762961
+
+Epoch 27:
+Accuracy:92.46448796500786
+Updating weights
+
+Epoch 28:
+Accuracy:92.46620663578788
+Updating weights
+
+Epoch 29:
+Accuracy:92.35878971203671
+
+Epoch 30:
+Accuracy:92.32441629643634
+
+Epoch 31:
+Accuracy:92.25395079445556
+
+Epoch 32:
+Accuracy:92.37769509061691
+
+Epoch 33:
+Accuracy:92.4859713497581
+Updating weights
+
+Epoch 34:
+Accuracy:92.38714777990702
+
+Epoch 35:
+Accuracy:92.45073859876771
+
+Epoch 36:
+Accuracy:92.60713763974942
+Updating weights
+
+Epoch 37:
+Accuracy:92.60885631052943
+Updating weights
+
+Epoch 38:
+Accuracy:92.5323754608186
+
+Epoch 39:
+Accuracy:92.59854428584933
+
+Epoch 40:
+Accuracy:92.64838573846987
+Updating weights
+
+Epoch 41:
+Accuracy:92.78673873626137
+Updating weights
+
+Epoch 42:
+Accuracy:92.752365320661
+
+Epoch 43:
+Accuracy:92.83400218271188
+Updating weights
+
+Epoch 44:
+Accuracy:92.70767988038051
+
+Epoch 45:
+Accuracy:92.8254088288118
+
+Epoch 46:
+Accuracy:92.78502006548136
+
+Epoch 47:
+Accuracy:92.84001753044195
+Updating weights
+
+Epoch 48:
+Accuracy:92.76009933917109
+
+Epoch 49:
+Accuracy:92.99641657142367
+Updating weights
+
+Epoch 50:
+Accuracy:92.84087686583196
+
+Epoch 51:
+Accuracy:93.17258032637558
+Updating weights
+
+Epoch 52:
+Accuracy:92.93454442334298
+
+Epoch 53:
+Accuracy:93.17601766793562
+Updating weights
+
+Epoch 54:
+Accuracy:93.03766467014411
+
+Epoch 55:
+Accuracy:92.99813524220367
+
+Epoch 56:
+Accuracy:93.27741924395673
+Updating weights
+
+Epoch 57:
+Accuracy:93.06344473184438
+
+Epoch 58:
+Accuracy:93.17687700332563
+
+Epoch 59:
+Accuracy:93.30491797643703
+Updating weights
+
+Epoch 60:
+Accuracy:93.29030927480686
+
+Epoch 61:
+Accuracy:93.29890262870695
+
+Epoch 62:
+Accuracy:93.3126519949471
+Updating weights
+
+Epoch 63:
+Accuracy:93.29116861019688
+
+Epoch 64:
+Accuracy:93.42006891869828
+Updating weights
+
+Epoch 65:
+Accuracy:93.32897936735729
+
+Epoch 66:
+Accuracy:93.40288221089808
+
+Epoch 67:
+Accuracy:93.64435545549073
+Updating weights
+
+Epoch 68:
+Accuracy:93.57560862428997
+
+Epoch 69:
+Accuracy:93.63834010776065
+
+Epoch 70:
+Accuracy:93.5506878979797
+
+Epoch 71:
+Accuracy:93.6323247600306
+
+Epoch 72:
+Accuracy:93.5403758732996
+
+Epoch 73:
+Accuracy:93.46475435897877
+
+Epoch 74:
+Accuracy:93.68044754187112
+Updating weights
+
+Epoch 75:
+Accuracy:93.60740403372031
+
+Epoch 76:
+Accuracy:93.59193599670016
+
+Epoch 77:
+Accuracy:93.75864706236197
+Updating weights
+
+Epoch 78:
+Accuracy:93.8617673091631
+Updating weights
+
+Epoch 79:
+Accuracy:93.72255497598158
+
+Epoch 80:
+Accuracy:93.79989516108242
+
+Epoch 81:
+Accuracy:93.87551667540325
+Updating weights
+
+Epoch 82:
+Accuracy:93.7792711117222
+
+Epoch 83:
+Accuracy:93.94254483582398
+Updating weights
+
+Epoch 84:
+Accuracy:93.94598217738401
+Updating weights
+
+Epoch 85:
+Accuracy:93.85661129682303
+
+Epoch 86:
+Accuracy:93.95285686050408
+Updating weights
+
+Epoch 87:
+Accuracy:94.01129166702472
+Updating weights
+
+Epoch 88:
+Accuracy:93.99582363000455
+
+Epoch 89:
+Accuracy:94.07831982744545
+Updating weights
+
+Epoch 90:
+Accuracy:93.96488755596421
+
+Epoch 91:
+Accuracy:94.08519451056553
+Updating weights
+
+Epoch 92:
+Accuracy:94.14620732325619
+Updating weights
+
+Epoch 93:
+Accuracy:94.18573675119663
+Updating weights
+
+Epoch 94:
+Accuracy:94.05339910113518
+
+Epoch 95:
+Accuracy:94.10581855992575
+
+Epoch 96:
+Accuracy:94.29573168111783
+Updating weights
+
+Epoch 97:
+Accuracy:94.28284165026768
+
+Epoch 98:
+Accuracy:94.1470666586462
+
+Epoch 99:
+Accuracy:94.09894387680568
+
+Epoch 100:
+Accuracy:94.3215117428181
+Updating weights
+
+Epoch 101:
+Accuracy:94.36361917692857
+Updating weights
+
+Epoch 102:
+Accuracy:94.23729687459719
+
+Epoch 103:
+Accuracy:94.3490104752984
+
+Epoch 104:
+Accuracy:94.36104117075854
+
+Epoch 105:
+Accuracy:94.16253469566637
+
+Epoch 106:
+Accuracy:94.5225962240803
+Updating weights
+
+Epoch 107:
+Accuracy:94.37479053699869
+
+Epoch 108:
+Accuracy:94.46931742989972
+
+Epoch 109:
+Accuracy:94.4581460698296
+
+Epoch 110:
+Accuracy:94.48392613152987
+
+Epoch 111:
+Accuracy:94.60079574457114
+Updating weights
+
+Epoch 112:
+Accuracy:94.3309644321082
+
+Epoch 113:
+Accuracy:94.59306172606107
+
+Epoch 114:
+Accuracy:94.53978293188048
+
+Epoch 115:
+Accuracy:94.43322534351933
+
+Epoch 116:
+Accuracy:94.64032517251158
+Updating weights
+
+Epoch 117:
+Accuracy:94.56126631663072
+
+Epoch 118:
+Accuracy:94.50025350394006
+
+Epoch 119:
+Accuracy:94.53806426110046
+
+Epoch 120:
+Accuracy:94.64719985563165
+Updating weights
+
+Epoch 121:
+Accuracy:94.71938402839244
+Updating weights
+
+Epoch 122:
+Accuracy:94.65063719719168
+
+Epoch 123:
+Accuracy:94.69360396669217
+
+Epoch 124:
+Accuracy:94.7339927300226
+Updating weights
+
+Epoch 125:
+Accuracy:94.7881308595932
+Updating weights
+
+Epoch 126:
+Accuracy:94.69790064364221
+
+Epoch 127:
+Accuracy:94.79930221966332
+Updating weights
+
+Epoch 128:
+Accuracy:94.63173181861148
+
+Epoch 129:
+Accuracy:94.6429031786816
+
+Epoch 130:
+Accuracy:94.76664747484296
+
+Epoch 131:
+Accuracy:94.86117436774398
+Updating weights
+
+Epoch 132:
+Accuracy:94.82336361058357
+
+Epoch 133:
+Accuracy:94.96687262071514
+Updating weights
+
+Epoch 134:
+Accuracy:94.79242753654324
+
+Epoch 135:
+Accuracy:94.7795375056931
+
+Epoch 136:
+Accuracy:94.8817984171042
+
+Epoch 137:
+Accuracy:94.8809390817142
+
+Epoch 138:
+Accuracy:94.7339927300226
+
+Epoch 139:
+Accuracy:94.7984428842733
+
+Epoch 140:
+Accuracy:94.92218718043465
+
+Epoch 141:
+Accuracy:94.86890838625408
+
+Epoch 142:
+Accuracy:94.81820759824352
+
+Epoch 143:
+Accuracy:94.79414620732325
+
+Epoch 144:
+Accuracy:95.08460156914643
+Updating weights
+
+Epoch 145:
+Accuracy:94.86375237391401
+
+Epoch 146:
+Accuracy:94.84484699533381
+
+Epoch 147:
+Accuracy:94.87062705703408
+
+Epoch 148:
+Accuracy:94.96171660837508
+
+Epoch 149:
+Accuracy:94.98749667007536
+
+Epoch 150:
+Accuracy:94.91273449114455
+
+Epoch 151:
+Accuracy:94.99007467624538
+
+Epoch 152:
+Accuracy:95.00468337787555
+
+Epoch 153:
+Accuracy:95.08632023992644
+Updating weights
+
+Epoch 154:
+Accuracy:94.99609002397546
+
+Epoch 155:
+Accuracy:95.1653790958073
+Updating weights
+
+Epoch 156:
+Accuracy:95.06311818439619
+
+Epoch 157:
+Accuracy:95.19545583445763
+Updating weights
+
+Epoch 158:
+Accuracy:95.06827419673624
+
+Epoch 159:
+Accuracy:95.06569619056621
+
+Epoch 160:
+Accuracy:95.34068351536921
+Updating weights
+
+Epoch 161:
+Accuracy:94.92992119894474
+
+Epoch 162:
+Accuracy:95.04249413503597
+
+Epoch 163:
+Accuracy:95.25474997636827
+
+Epoch 164:
+Accuracy:95.26334333026837
+
+Epoch 165:
+Accuracy:95.16795710197734
+
+Epoch 166:
+Accuracy:95.1017882769466
+
+Epoch 167:
+Accuracy:95.14045836949703
+
+Epoch 168:
+Accuracy:95.21436121303783
+
+Epoch 169:
+Accuracy:95.1284276740369
+
+Epoch 170:
+Accuracy:95.31748145983896
+
+Epoch 171:
+Accuracy:95.25045329941823
+
+Epoch 172:
+Accuracy:95.27193668416847
+
+Epoch 173:
+Accuracy:95.31490345366893
+
+Epoch 174:
+Accuracy:95.31920013061898
+
+Epoch 175:
+Accuracy:95.27709269650852
+
+Epoch 176:
+Accuracy:95.36302623550945
+Updating weights
+
+Epoch 177:
+Accuracy:95.20576785913774
+
+Epoch 178:
+Accuracy:95.34583952770927
+
+Epoch 179:
+Accuracy:95.31490345366893
+
+Epoch 180:
+Accuracy:95.20404918835773
+
+Epoch 181:
+Accuracy:95.39396230954979
+Updating weights
+
+Epoch 182:
+Accuracy:95.25818731792832
+
+Epoch 183:
+Accuracy:95.40427433422991
+Updating weights
+
+Epoch 184:
+Accuracy:95.1189749847468
+
+Epoch 185:
+Accuracy:95.37419759557957
+
+Epoch 186:
+Accuracy:95.31060677671888
+
+Epoch 187:
+Accuracy:95.46442781153056
+Updating weights
+
+Epoch 188:
+Accuracy:95.44724110373038
+
+Epoch 189:
+Accuracy:95.18170646821748
+
+Epoch 190:
+Accuracy:95.27709269650852
+
+Epoch 191:
+Accuracy:95.24443795168817
+
+Epoch 192:
+Accuracy:95.52715929500124
+Updating weights
+
+Epoch 193:
+Accuracy:95.5409086612414
+Updating weights
+
+Epoch 194:
+Accuracy:95.4764585069907
+
+Epoch 195:
+Accuracy:95.4309137313202
+
+Epoch 196:
+Accuracy:95.52028461188117
+
+Epoch 197:
+Accuracy:95.50997258720106
+
+Epoch 198:
+Accuracy:95.42317971281011
+
+Epoch 199:
+Accuracy:95.3492768692693
+
+Epoch 200:
+Accuracy:95.50567591025101
+
+Epoch 201:
+Accuracy:95.38193161408967
+
+Epoch 202:
+Accuracy:95.62856087102234
+Updating weights
+
+Epoch 203:
+Accuracy:95.27709269650852
+
+Epoch 204:
+Accuracy:95.49794189174092
+
+Epoch 205:
+Accuracy:95.39997765727986
+
+Epoch 206:
+Accuracy:95.41544569430003
+
+Epoch 207:
+Accuracy:95.53403397812131
+
+Epoch 208:
+Accuracy:95.58215675996185
+
+Epoch 209:
+Accuracy:95.58473476613187
+
+Epoch 210:
+Accuracy:95.34498019231926
+
+Epoch 211:
+Accuracy:95.37419759557957
+
+Epoch 212:
+Accuracy:95.48848920245082
+
+Epoch 213:
+Accuracy:95.48848920245082
+
+Epoch 214:
+Accuracy:95.58903144308192
+
+Epoch 215:
+Accuracy:95.45411578685045
+
+Epoch 216:
+Accuracy:95.66551229279276
+Updating weights
+
+Epoch 217:
+Accuracy:95.52458128883121
+
+Epoch 218:
+Accuracy:95.5598140398216
+
+Epoch 219:
+Accuracy:95.595906126202
+
+Epoch 220:
+Accuracy:95.42575771898014
+
+Epoch 221:
+Accuracy:95.70332304995317
+Updating weights
+
+Epoch 222:
+Accuracy:95.65348159733263
+
+Epoch 223:
+Accuracy:95.43435107288023
+
+Epoch 224:
+Accuracy:95.50137923330097
+
+Epoch 225:
+Accuracy:95.58387543074187
+
+Epoch 226:
+Accuracy:95.57442274145176
+
+Epoch 227:
+Accuracy:95.54606467358145
+
+Epoch 228:
+Accuracy:95.49278587940087
+
+Epoch 229:
+Accuracy:95.62942020641236
+
+Epoch 230:
+Accuracy:95.59762479698202
+
+Epoch 231:
+Accuracy:95.70418238534317
+Updating weights
+
+Epoch 232:
+Accuracy:95.73941513633356
+Updating weights
+
+Epoch 233:
+Accuracy:95.69558903144308
+
+Epoch 234:
+Accuracy:95.63285754797239
+
+Epoch 235:
+Accuracy:95.65777827428266
+
+Epoch 236:
+Accuracy:95.8442540539147
+Updating weights
+
+Epoch 237:
+Accuracy:95.71363507463327
+
+Epoch 238:
+Accuracy:95.73511845938351
+
+Epoch 239:
+Accuracy:95.7703512103739
+
+Epoch 240:
+Accuracy:95.78324124122403
+
+Epoch 241:
+Accuracy:95.7712105457639
+
+Epoch 242:
+Accuracy:95.74113380711358
+
+Epoch 243:
+Accuracy:95.68441767137296
+
+Epoch 244:
+Accuracy:95.81159930909435
+
+Epoch 245:
+Accuracy:95.61824884634224
+
+Epoch 246:
+Accuracy:95.8992515188753
+Updating weights
+
+Epoch 247:
+Accuracy:95.74457114867361
+
+Epoch 248:
+Accuracy:95.6698089697428
+
+Epoch 249:
+Accuracy:95.82277066916447
+
+Epoch 250:
+Accuracy:95.83222335845457
+
+Epoch 251:
+Accuracy:95.76605453342385
+
+Epoch 252:
+Accuracy:95.98690372865626
+Updating weights
+
+Epoch 253:
+Accuracy:95.68527700676297
+
+Epoch 254:
+Accuracy:95.73941513633356
+
+Epoch 255:
+Accuracy:95.83050468767455
+
+Epoch 256:
+Accuracy:95.85370674320481
+
+Epoch 257:
+Accuracy:95.80128728441423
+
+Epoch 258:
+Accuracy:95.80558396136428
+
+Epoch 259:
+Accuracy:95.73511845938351
+
+Epoch 260:
+Accuracy:95.92503158057558
+
+Epoch 261:
+Accuracy:95.91128221433543
+
+Epoch 262:
+Accuracy:95.89409550653525
+
+Epoch 263:
+Accuracy:95.871752786395
+
+Epoch 264:
+Accuracy:96.04447919978689
+Updating weights
+
+Epoch 265:
+Accuracy:95.78324124122403
+
+Epoch 266:
+Accuracy:95.8081619675343
+
+Epoch 267:
+Accuracy:95.60449948010209
+
+Epoch 268:
+Accuracy:95.93448426986569
+
+Epoch 269:
+Accuracy:95.77550722271396
+
+Epoch 270:
+Accuracy:95.89409550653525
+
+Epoch 271:
+Accuracy:95.69472969605307
+
+Epoch 272:
+Accuracy:95.8253486753345
+
+Epoch 273:
+Accuracy:95.86058142632488
+
+Epoch 274:
+Accuracy:95.63543555414243
+
+Epoch 275:
+Accuracy:95.81331797987437
+
+Epoch 276:
+Accuracy:95.78152257044403
+
+Epoch 277:
+Accuracy:95.84683206008474
+
+Epoch 278:
+Accuracy:95.85112873703477
+
+Epoch 279:
+Accuracy:95.94307762376577
+
+Epoch 280:
+Accuracy:95.90612620199538
+
+Epoch 281:
+Accuracy:95.81245864448435
+
+Epoch 282:
+Accuracy:95.85800342015486
+
+Epoch 283:
+Accuracy:95.79613127207418
+
+Epoch 284:
+Accuracy:95.89667351270528
+
+Epoch 285:
+Accuracy:95.94651496532582
+
+Epoch 286:
+Accuracy:95.94565562993581
+
+Epoch 287:
+Accuracy:95.81933332760443
+
+Epoch 288:
+Accuracy:95.99721575333636
+
+Epoch 289:
+Accuracy:95.93018759291564
+
+Epoch 290:
+Accuracy:95.86917478022498
+
+Epoch 291:
+Accuracy:96.0186991380866
+
+Epoch 292:
+Accuracy:95.97573236858614
+
+Epoch 293:
+Accuracy:95.89323617114523
+
+Epoch 294:
+Accuracy:96.09346131701741
+Updating weights
+
+Epoch 295:
+Accuracy:96.00752777801648
+
+Epoch 296:
+Accuracy:95.9362029406457
+
+Epoch 297:
+Accuracy:95.98432572248623
+
+Epoch 298:
+Accuracy:95.90097018965533
+
+Epoch 299:
+Accuracy:95.84253538313469
+
+Epoch 300:
+Accuracy:95.7987092782442
+
+Epoch 301:
+Accuracy:96.0367451812768
+
+Epoch 302:
+Accuracy:95.97831037475616
+
+Epoch 303:
+Accuracy:96.06510324914711
+
+Epoch 304:
+Accuracy:96.10291400630751
+Updating weights
+
+Epoch 305:
+Accuracy:95.97659170397614
+
+Epoch 306:
+Accuracy:96.01096511957653
+
+Epoch 307:
+Accuracy:95.82191133377447
+
+Epoch 308:
+Accuracy:96.06252524297709
+
+Epoch 309:
+Accuracy:95.87003411561498
+
+Epoch 310:
+Accuracy:96.07283726765719
+
+Epoch 311:
+Accuracy:96.08314929233731
+
+Epoch 312:
+Accuracy:96.0178398026966
+
+Epoch 313:
+Accuracy:96.04018252283684
+
+Epoch 314:
+Accuracy:96.00666844262648
+
+Epoch 315:
+Accuracy:96.03416717510677
+
+Epoch 316:
+Accuracy:95.99463774716634
+
+Epoch 317:
+Accuracy:95.95854566078594
+
+Epoch 318:
+Accuracy:96.07369660304721
+
+Epoch 319:
+Accuracy:96.10377334169753
+Updating weights
+
+Epoch 320:
+Accuracy:96.08143062155729
+
+Epoch 321:
+Accuracy:96.1372874219079
+Updating weights
+
+Epoch 322:
+Accuracy:95.96284233773599
+
+Epoch 323:
+Accuracy:96.09432065240743
+
+Epoch 324:
+Accuracy:96.14072476346793
+Updating weights
+
+Epoch 325:
+Accuracy:96.23267365019893
+Updating weights
+
+Epoch 326:
+Accuracy:96.10892935403758
+
+Epoch 327:
+Accuracy:95.91300088511545
+
+Epoch 328:
+Accuracy:96.11666337254768
+
+Epoch 329:
+Accuracy:96.12697539722778
+
+Epoch 330:
+Accuracy:96.12096004949773
+
+Epoch 331:
+Accuracy:95.95081164227587
+
+Epoch 332:
+Accuracy:95.92760958674562
+
+Epoch 333:
+Accuracy:96.05822856602704
+
+Epoch 334:
+Accuracy:96.04447919978689
+
+Epoch 335:
+Accuracy:96.06854059070714
+
+Epoch 336:
+Accuracy:96.13041273878783
+
+Epoch 337:
+Accuracy:96.11150736020761
+
+Epoch 338:
+Accuracy:96.13642808651788
+
+Epoch 339:
+Accuracy:96.15361479431807
+
+Epoch 340:
+Accuracy:96.25329769955916
+Updating weights
+
+Epoch 341:
+Accuracy:96.33751256778008
+Updating weights
+
+Epoch 342:
+Accuracy:96.18541020374842
+
+Epoch 343:
+Accuracy:96.1097886894276
+
+Epoch 344:
+Accuracy:96.19915956998857
+
+Epoch 345:
+Accuracy:96.29110845671957
+
+Epoch 346:
+Accuracy:96.29540513366962
+
+Epoch 347:
+Accuracy:96.16994216672825
+
+Epoch 348:
+Accuracy:96.18025419140837
+
+Epoch 349:
+Accuracy:96.09603932318744
+
+Epoch 350:
+Accuracy:96.09432065240743
+
+Epoch 351:
+Accuracy:96.26876573657933
+
+Epoch 352:
+Accuracy:96.12267872027773
+
+Epoch 353:
+Accuracy:96.22579896707886
+
+Epoch 354:
+Accuracy:96.1372874219079
+
+Epoch 355:
+Accuracy:96.05822856602704
+
+Epoch 356:
+Accuracy:96.19142555147849
+
+Epoch 357:
+Accuracy:96.2472823518291
+
+Epoch 358:
+Accuracy:96.17853552062834
+
+Epoch 359:
+Accuracy:96.11150736020761
+
+Epoch 360:
+Accuracy:96.17767618523834
+
+Epoch 361:
+Accuracy:96.20689358849866
+
+Epoch 362:
+Accuracy:96.00323110106643
+
+Epoch 363:
+Accuracy:96.21548694239875
+
+Epoch 364:
+Accuracy:96.26017238267923
+
+Epoch 365:
+Accuracy:96.22493963168886
+
+Epoch 366:
+Accuracy:96.08744596928736
+
+Epoch 367:
+Accuracy:96.237829662539
+
+Epoch 368:
+Accuracy:96.23954833331901
+
+Epoch 369:
+Accuracy:96.11580403715766
+
+Epoch 370:
+Accuracy:96.32805987848998
+
+Epoch 371:
+Accuracy:96.14072476346793
+
+Epoch 372:
+Accuracy:96.22579896707886
+
+Epoch 373:
+Accuracy:96.30571715834974
+
+Epoch 374:
+Accuracy:96.20087824076859
+
+Epoch 375:
+Accuracy:96.06338457836709
+
+Epoch 376:
+Accuracy:96.20431558232863
+
+Epoch 377:
+Accuracy:96.27220307813937
+
+Epoch 378:
+Accuracy:96.2481416872191
+
+Epoch 379:
+Accuracy:96.18455086835841
+
+Epoch 380:
+Accuracy:96.35126193402023
+Updating weights
+
+Epoch 381:
+Accuracy:96.20517491771864
+
+Epoch 382:
+Accuracy:96.32204453075991
+
+Epoch 383:
+Accuracy:96.2472823518291
+
+Epoch 384:
+Accuracy:96.15103678814805
+
+Epoch 385:
+Accuracy:96.27907776125944
+
+Epoch 386:
+Accuracy:96.23439232097896
+
+Epoch 387:
+Accuracy:96.17853552062834
+
+Epoch 388:
+Accuracy:96.22322096090883
+
+Epoch 389:
+Accuracy:96.145880775808
+
+Epoch 390:
+Accuracy:96.3675893064304
+Updating weights
+
+Epoch 391:
+Accuracy:96.33579389700006
+
+Epoch 392:
+Accuracy:96.3950880389107
+Updating weights
+
+Epoch 393:
+Accuracy:96.2936864628896
+
+Epoch 394:
+Accuracy:96.22751763785888
+
+Epoch 395:
+Accuracy:96.29282712749959
+
+Epoch 396:
+Accuracy:96.18970688069847
+
+Epoch 397:
+Accuracy:96.2472823518291
+
+Epoch 398:
+Accuracy:96.36329262948036
+
+Epoch 399:
+Accuracy:96.2747810843094
+
+Epoch 400:
+Accuracy:96.25415703494917
+
+Epoch 401:
+Accuracy:96.43547680224114
+Updating weights
+
+Epoch 402:
+Accuracy:96.44578882692126
+Updating weights
+
+Epoch 403:
+Accuracy:96.1553334650981
+
+Epoch 404:
+Accuracy:96.40110338664077
+
+Epoch 405:
+Accuracy:96.19400355764851
+
+Epoch 406:
+Accuracy:96.54117505521229
+Updating weights
+
+Epoch 407:
+Accuracy:96.25501637033918
+
+Epoch 408:
+Accuracy:96.29884247522966
+
+Epoch 409:
+Accuracy:96.15705213587812
+
+Epoch 410:
+Accuracy:96.34266858012013
+
+Epoch 411:
+Accuracy:96.35212126941023
+
+Epoch 412:
+Accuracy:96.34438725090016
+
+Epoch 413:
+Accuracy:96.2747810843094
+
+Epoch 414:
+Accuracy:96.27048440735935
+
+Epoch 415:
+Accuracy:96.3675893064304
+
+Epoch 416:
+Accuracy:96.07885261538726
+
+Epoch 417:
+Accuracy:96.21204960083871
+
+Epoch 418:
+Accuracy:96.40110338664077
+
+Epoch 419:
+Accuracy:96.2756404196994
+
+Epoch 420:
+Accuracy:96.31946652458988
+
+Epoch 421:
+Accuracy:96.26017238267923
+
+Epoch 422:
+Accuracy:96.37188598338045
+
+Epoch 423:
+Accuracy:96.20173757615859
+
+Epoch 424:
+Accuracy:96.36243329409035
+
+Epoch 425:
+Accuracy:96.29798313983964
+
+Epoch 426:
+Accuracy:96.33063788466
+
+Epoch 427:
+Accuracy:96.21978361934879
+
+Epoch 428:
+Accuracy:96.3581366171403
+
+Epoch 429:
+Accuracy:96.51453565812201
+
+Epoch 430:
+Accuracy:96.47242822401155
+
+Epoch 431:
+Accuracy:96.28681177976952
+
+Epoch 432:
+Accuracy:96.38821335579063
+
+Epoch 433:
+Accuracy:96.33235655544003
+
+Epoch 434:
+Accuracy:96.2300956440289
+
+Epoch 435:
+Accuracy:96.2936864628896
+
+Epoch 436:
+Accuracy:96.38735402040062
+
+Epoch 437:
+Accuracy:96.36415196487037
+
+Epoch 438:
+Accuracy:96.37188598338045
+
+Epoch 439:
+Accuracy:96.47586556557158
+
+Epoch 440:
+Accuracy:96.46641287628148
+
+Epoch 441:
+Accuracy:96.17853552062834
+
+Epoch 442:
+Accuracy:96.2756404196994
+
+Epoch 443:
+Accuracy:96.45266351004133
+
+Epoch 444:
+Accuracy:96.56179910457253
+Updating weights
+
+Epoch 445:
+Accuracy:96.36071462331033
+
+Epoch 446:
+Accuracy:96.40797806976084
+
+Epoch 447:
+Accuracy:96.35899595253031
+
+Epoch 448:
+Accuracy:96.36071462331033
+
+Epoch 449:
+Accuracy:96.53430037209222
+
+Epoch 450:
+Accuracy:96.43977347919119
+
+Epoch 451:
+Accuracy:96.20603425310864
+
+Epoch 452:
+Accuracy:96.39938471586075
+
+Epoch 453:
+Accuracy:96.31431051224983
+
+Epoch 454:
+Accuracy:96.38305734345057
+
+Epoch 455:
+Accuracy:96.34782459246019
+
+Epoch 456:
+Accuracy:96.46469420550146
+
+Epoch 457:
+Accuracy:96.50336429805189
+
+Epoch 458:
+Accuracy:96.40625939898082
+
+Epoch 459:
+Accuracy:96.47328755940156
+
+Epoch 460:
+Accuracy:96.43203946068111
+
+Epoch 461:
+Accuracy:96.36844864182042
+
+Epoch 462:
+Accuracy:96.36587063565038
+
+Epoch 463:
+Accuracy:96.57726714159269
+Updating weights
+
+Epoch 464:
+Accuracy:96.27134374274935
+
+Epoch 465:
+Accuracy:96.41485275288092
+
+Epoch 466:
+Accuracy:96.46297553472145
+
+Epoch 467:
+Accuracy:96.604765874073
+Updating weights
+
+Epoch 468:
+Accuracy:96.45352284543134
+
+Epoch 469:
+Accuracy:96.25329769955916
+
+Epoch 470:
+Accuracy:96.34352791551015
+
+Epoch 471:
+Accuracy:96.48016224252163
+
+Epoch 472:
+Accuracy:96.34180924473013
+
+Epoch 473:
+Accuracy:96.54890907372238
+
+Epoch 474:
+Accuracy:96.42774278373106
+
+Epoch 475:
+Accuracy:96.2575943765092
+
+Epoch 476:
+Accuracy:96.53344103670221
+
+Epoch 477:
+Accuracy:96.33149722005001
+
+Epoch 478:
+Accuracy:96.47500623018158
+
+Epoch 479:
+Accuracy:96.36329262948036
+
+Epoch 480:
+Accuracy:96.36930797721043
+
+Epoch 481:
+Accuracy:96.42430544217102
+
+Epoch 482:
+Accuracy:96.38219800806057
+
+Epoch 483:
+Accuracy:96.39594737430072
+
+Epoch 484:
+Accuracy:96.604765874073
+
+Epoch 485:
+Accuracy:96.4595381931614
+
+Epoch 486:
+Accuracy:96.42688344834106
+
+Epoch 487:
+Accuracy:96.38305734345057
+
+Epoch 488:
+Accuracy:96.45438218082136
+
+Epoch 489:
+Accuracy:96.41571208827094
+
+Epoch 490:
+Accuracy:96.49391160876178
+
+Epoch 491:
+Accuracy:96.513676322732
+
+Epoch 492:
+Accuracy:96.57211112925263
+
+Epoch 493:
+Accuracy:96.28079643203947
+
+Epoch 494:
+Accuracy:96.3942287035207
+
+Epoch 495:
+Accuracy:96.3950880389107
+
+Epoch 496:
+Accuracy:96.63226460655329
+Updating weights
+
+Epoch 497:
+Accuracy:96.50766097500194
+
+Epoch 498:
+Accuracy:96.55578375684246
+
+Epoch 499:
+Accuracy:96.52570701819214
+
+Epoch 500:
+Accuracy:96.56179910457253
+
+Epoch 501:
+Accuracy:96.51711366429204
+
+Epoch 502:
+Accuracy:96.50250496266187
+
+Epoch 503:
+Accuracy:96.39766604508074
+
+Epoch 504:
+Accuracy:96.41399341749091
+
+Epoch 505:
+Accuracy:96.3400905739501
+
+Epoch 506:
+Accuracy:96.47844357174162
+
+Epoch 507:
+Accuracy:96.60906255102304
+
+Epoch 508:
+Accuracy:96.41914942983097
+
+Epoch 509:
+Accuracy:96.41485275288092
+
+Epoch 510:
+Accuracy:96.38219800806057
+
+Epoch 511:
+Accuracy:96.38821335579063
+
+Epoch 512:
+Accuracy:96.53344103670221
+
+Epoch 513:
+Accuracy:96.62023391109317
+
+Epoch 514:
+Accuracy:96.51797299968204
+
+Epoch 515:
+Accuracy:96.35469927558026
+
+Epoch 516:
+Accuracy:96.4131340821009
+
+Epoch 517:
+Accuracy:96.46641287628148
+
+Epoch 518:
+Accuracy:96.56609578152258
+
+Epoch 519:
+Accuracy:96.43547680224114
+
+Epoch 520:
+Accuracy:96.60734388024302
+
+Epoch 521:
+Accuracy:96.41743075905094
+
+Epoch 522:
+Accuracy:96.5867198308828
+
+Epoch 523:
+Accuracy:96.5875791662728
+
+Epoch 524:
+Accuracy:96.63742061889334
+Updating weights
+
+Epoch 525:
+Accuracy:96.47930290713163
+
+Epoch 526:
+Accuracy:96.60820321563303
+
+Epoch 527:
+Accuracy:96.46469420550146
+
+Epoch 528:
+Accuracy:96.57382980003266
+
+Epoch 529:
+Accuracy:96.31001383529978
+
+Epoch 530:
+Accuracy:96.55664309223246
+
+Epoch 531:
+Accuracy:96.48789626103172
+
+Epoch 532:
+Accuracy:96.5231290120221
+
+Epoch 533:
+Accuracy:96.46555354089148
+
+Epoch 534:
+Accuracy:96.5781264769827
+
+Epoch 535:
+Accuracy:96.4492261684813
+
+Epoch 536:
+Accuracy:96.45781952238139
+
+Epoch 537:
+Accuracy:96.57125179386263
+
+Epoch 538:
+Accuracy:96.41141541132089
+
+Epoch 539:
+Accuracy:96.56265843996253
+
+Epoch 540:
+Accuracy:96.4681315470615
+
+Epoch 541:
+Accuracy:96.5686737876926
+
+Epoch 542:
+Accuracy:96.58929783705283
+
+Epoch 543:
+Accuracy:96.51797299968204
+
+Epoch 544:
+Accuracy:96.52742568897214
+
+Epoch 545:
+Accuracy:96.43805480841118
+
+Epoch 546:
+Accuracy:96.53258170131221
+
+Epoch 547:
+Accuracy:96.56437711074256
+
+Epoch 548:
+Accuracy:96.60304720329297
+
+Epoch 549:
+Accuracy:96.58328248932276
+
+Epoch 550:
+Accuracy:96.4595381931614
+
+Epoch 551:
+Accuracy:96.63140527116329
+
+Epoch 552:
+Accuracy:96.5781264769827
+
+Epoch 553:
+Accuracy:96.61765590492313
+
+Epoch 554:
+Accuracy:96.58414182471277
+
+Epoch 555:
+Accuracy:96.66921602832369
+Updating weights
+
+Epoch 556:
+Accuracy:96.3675893064304
+
+Epoch 557:
+Accuracy:96.6150778987531
+
+Epoch 558:
+Accuracy:96.45094483926131
+
+Epoch 559:
+Accuracy:96.53687837826226
+
+Epoch 560:
+Accuracy:96.56523644613256
+
+Epoch 561:
+Accuracy:96.51883233507206
+
+Epoch 562:
+Accuracy:96.39594737430072
+
+Epoch 563:
+Accuracy:96.50336429805189
+
+Epoch 564:
+Accuracy:96.58328248932276
+
+Epoch 565:
+Accuracy:96.43375813146113
+
+Epoch 566:
+Accuracy:96.57125179386263
+
+Epoch 567:
+Accuracy:96.39079136196067
+
+Epoch 568:
+Accuracy:96.48445891947168
+
+Epoch 569:
+Accuracy:96.56093976918251
+
+Epoch 570:
+Accuracy:96.63484261272332
+
+Epoch 571:
+Accuracy:96.58586049549278
+
+Epoch 572:
+Accuracy:96.57898581237271
+
+Epoch 573:
+Accuracy:96.604765874073
+
+Epoch 574:
+Accuracy:96.58414182471277
+
+Epoch 575:
+Accuracy:96.53258170131221
+
+Epoch 576:
+Accuracy:96.55922109840249
+
+Epoch 577:
+Accuracy:96.62281191726319
+
+Epoch 578:
+Accuracy:96.73022884101437
+Updating weights
+
+Epoch 579:
+Accuracy:96.61765590492313
+
+Epoch 580:
+Accuracy:96.48102157791165
+
+Epoch 581:
+Accuracy:96.71991681633425
+
+Epoch 582:
+Accuracy:96.62624925882322
+
+Epoch 583:
+Accuracy:96.55578375684246
+
+Epoch 584:
+Accuracy:96.46297553472145
+
+Epoch 585:
+Accuracy:96.53172236592219
+
+Epoch 586:
+Accuracy:96.67609071144376
+
+Epoch 587:
+Accuracy:96.5686737876926
+
+Epoch 588:
+Accuracy:96.61851524031314
+
+Epoch 589:
+Accuracy:96.6142185633631
+
+Epoch 590:
+Accuracy:96.54375306138233
+
+Epoch 591:
+Accuracy:96.51281698734199
+
+Epoch 592:
+Accuracy:96.58929783705283
+
+Epoch 593:
+Accuracy:96.48445891947168
+
+Epoch 594:
+Accuracy:96.65804466825357
+
+Epoch 595:
+Accuracy:96.59187584322285
+
+Epoch 596:
+Accuracy:96.75429023193462
+Updating weights
+
+Epoch 597:
+Accuracy:96.53601904287224
+
+Epoch 598:
+Accuracy:96.54461239677234
+
+Epoch 599:
+Accuracy:96.66491935137364
+
+Epoch 600:
+Accuracy:96.42430544217102
+
+Epoch 601:
+Accuracy:96.77233627512481
+Updating weights
+
+Epoch 602:
+Accuracy:96.68726207151389
+
+Epoch 603:
+Accuracy:96.59960986173293
+
+Epoch 604:
+Accuracy:96.62882726499325
+
+Epoch 605:
+Accuracy:96.47844357174162
+
+Epoch 606:
+Accuracy:96.71733881016422
+
+Epoch 607:
+Accuracy:96.51797299968204
+
+Epoch 608:
+Accuracy:96.75171222576459
+
+Epoch 609:
+Accuracy:96.76889893356478
+
+Epoch 610:
+Accuracy:96.5042236334419
+
+Epoch 611:
+Accuracy:96.64773264357346
+
+Epoch 612:
+Accuracy:96.72679149945432
+
+Epoch 613:
+Accuracy:96.59359451400287
+
+Epoch 614:
+Accuracy:96.61164055719307
+
+Epoch 615:
+Accuracy:96.59187584322285
+
+Epoch 616:
+Accuracy:96.58242315393275
+
+Epoch 617:
+Accuracy:96.71733881016422
+
+Epoch 618:
+Accuracy:96.65116998513349
+
+Epoch 619:
+Accuracy:96.67351270527374
+
+Epoch 620:
+Accuracy:96.61249989258307
+
+Epoch 621:
+Accuracy:96.55578375684246
+
+Epoch 622:
+Accuracy:96.67695004683378
+
+Epoch 623:
+Accuracy:96.77491428129484
+Updating weights
+
+Epoch 624:
+Accuracy:96.47414689479157
+
+Epoch 625:
+Accuracy:96.6606226744236
+
+Epoch 626:
+Accuracy:96.55406508606244
+
+Epoch 627:
+Accuracy:96.62538992343322
+
+Epoch 628:
+Accuracy:96.61851524031314
+
+Epoch 629:
+Accuracy:96.71132346243415
+
+Epoch 630:
+Accuracy:96.71390146860418
+
+Epoch 631:
+Accuracy:96.70273010853406
+
+Epoch 632:
+Accuracy:96.63054593577327
+
+Epoch 633:
+Accuracy:96.74054086569447
+
+Epoch 634:
+Accuracy:96.54804973833238
+
+Epoch 635:
+Accuracy:96.83163041703547
+Updating weights
+
+Epoch 636:
+Accuracy:96.62796792960324
+
+Epoch 637:
+Accuracy:96.59960986173293
+
+Epoch 638:
+Accuracy:96.5781264769827
+
+Epoch 639:
+Accuracy:96.63656128350334
+
+Epoch 640:
+Accuracy:96.60906255102304
+
+Epoch 641:
+Accuracy:96.75944624427468
+
+Epoch 642:
+Accuracy:96.77835162285488
+
+Epoch 643:
+Accuracy:96.59359451400287
+
+Epoch 644:
+Accuracy:96.60906255102304
+
+Epoch 645:
+Accuracy:96.72936950562435
+
+Epoch 646:
+Accuracy:96.67609071144376
+
+Epoch 647:
+Accuracy:96.72851017023434
+
+Epoch 648:
+Accuracy:96.57726714159269
+
+Epoch 649:
+Accuracy:96.63656128350334
+
+Epoch 650:
+Accuracy:96.69843343158401
+
+Epoch 651:
+Accuracy:96.76546159200474
+
+Epoch 652:
+Accuracy:96.54031571982229
+
+Epoch 653:
+Accuracy:96.72077615172425
+
+Epoch 654:
+Accuracy:96.69413675463396
+
+Epoch 655:
+Accuracy:96.62624925882322
+
+Epoch 656:
+Accuracy:96.53086303053219
+
+Epoch 657:
+Accuracy:96.75600890271464
+
+Epoch 658:
+Accuracy:96.76374292122472
+
+Epoch 659:
+Accuracy:96.53344103670221
+
+Epoch 660:
+Accuracy:96.6606226744236
+
+Epoch 661:
+Accuracy:96.73968153030447
+
+Epoch 662:
+Accuracy:96.59359451400287
+
+Epoch 663:
+Accuracy:96.72593216406432
+
+Epoch 664:
+Accuracy:96.53430037209222
+
+Epoch 665:
+Accuracy:96.74140020108449
+
+Epoch 666:
+Accuracy:96.73022884101437
+
+Epoch 667:
+Accuracy:96.76460225661474
+
+Epoch 668:
+Accuracy:96.71304213321417
+
+Epoch 669:
+Accuracy:96.74999355498457
+
+Epoch 670:
+Accuracy:96.68726207151389
+
+Epoch 671:
+Accuracy:96.67351270527374
+
+Epoch 672:
+Accuracy:96.73710352413444
+
+Epoch 673:
+Accuracy:96.54547173216234
+
+Epoch 674:
+Accuracy:96.74999355498457
+
+Epoch 675:
+Accuracy:96.69241808385395
+
+Epoch 676:
+Accuracy:96.58843850166281
+
+Epoch 677:
+Accuracy:96.62796792960324
+
+Epoch 678:
+Accuracy:96.73108817640437
+
+Epoch 679:
+Accuracy:96.73710352413444
+
+Epoch 680:
+Accuracy:96.69929276697403
+
+Epoch 681:
+Accuracy:96.73796285952444
+
+Epoch 682:
+Accuracy:96.78436697058495
+
+Epoch 683:
+Accuracy:96.78178896441491
+
+Epoch 684:
+Accuracy:96.696714760804
+
+Epoch 685:
+Accuracy:96.67265336988373
+
+Epoch 686:
+Accuracy:96.75686823810464
+
+Epoch 687:
+Accuracy:96.88490921121604
+Updating weights
+
+Epoch 688:
+Accuracy:96.72936950562435
+
+Epoch 689:
+Accuracy:96.697574096194
+
+Epoch 690:
+Accuracy:96.75514956732464
+
+Epoch 691:
+Accuracy:96.66406001598364
+
+Epoch 692:
+Accuracy:96.87631585731596
+
+Epoch 693:
+Accuracy:96.66663802215366
+
+Epoch 694:
+Accuracy:96.72163548711427
+
+Epoch 695:
+Accuracy:96.73538485335442
+
+Epoch 696:
+Accuracy:96.84108310632557
+
+Epoch 697:
+Accuracy:96.70788612087412
+
+Epoch 698:
+Accuracy:96.89350256511614
+Updating weights
+
+Epoch 699:
+Accuracy:96.74913421959457
+
+Epoch 700:
+Accuracy:96.70187077314405
+
+Epoch 701:
+Accuracy:96.8436611124956
+
+Epoch 702:
+Accuracy:96.59359451400287
+
+Epoch 703:
+Accuracy:96.788663647535
+
+Epoch 704:
+Accuracy:96.63054593577327
+
+Epoch 705:
+Accuracy:96.79467899526506
+
+Epoch 706:
+Accuracy:96.7156201393842
+
+Epoch 707:
+Accuracy:96.62538992343322
+
+Epoch 708:
+Accuracy:96.789522982925
+
+Epoch 709:
+Accuracy:96.62538992343322
+
+Epoch 710:
+Accuracy:96.79296032448504
+
+Epoch 711:
+Accuracy:96.61937457570315
+
+Epoch 712:
+Accuracy:96.76718026278476
+
+Epoch 713:
+Accuracy:96.64945131435348
+
+Epoch 714:
+Accuracy:96.75343089654461
+
+Epoch 715:
+Accuracy:96.70358944392407
+
+Epoch 716:
+Accuracy:96.89264322972613
+
+Epoch 717:
+Accuracy:96.67351270527374
+
+Epoch 718:
+Accuracy:96.8247557339154
+
+Epoch 719:
+Accuracy:96.80928769689523
+
+Epoch 720:
+Accuracy:96.76718026278476
+
+Epoch 721:
+Accuracy:96.7250728286743
+
+Epoch 722:
+Accuracy:96.65804466825357
+
+Epoch 723:
+Accuracy:96.7147608039942
+
+Epoch 724:
+Accuracy:96.88576854660606
+
+Epoch 725:
+Accuracy:96.62453058804321
+
+Epoch 726:
+Accuracy:96.71390146860418
+
+Epoch 727:
+Accuracy:96.85139513100567
+
+Epoch 728:
+Accuracy:96.78264829980493
+
+Epoch 729:
+Accuracy:96.66320068059363
+
+Epoch 730:
+Accuracy:96.6700753637137
+
+Epoch 731:
+Accuracy:96.76546159200474
+
+Epoch 732:
+Accuracy:96.72593216406432
+
+Epoch 733:
+Accuracy:96.79038231831501
+
+Epoch 734:
+Accuracy:96.71390146860418
+
+Epoch 735:
+Accuracy:96.79553833065508
+
+Epoch 736:
+Accuracy:96.66835669293368
+
+Epoch 737:
+Accuracy:96.83077108164545
+
+Epoch 738:
+Accuracy:96.71991681633425
+
+Epoch 739:
+Accuracy:96.68124672378383
+
+Epoch 740:
+Accuracy:96.65288865591351
+
+Epoch 741:
+Accuracy:96.81272503845526
+
+Epoch 742:
+Accuracy:96.83163041703547
+
+Epoch 743:
+Accuracy:96.68984007768393
+
+Epoch 744:
+Accuracy:96.70187077314405
+
+Epoch 745:
+Accuracy:96.75085289037459
+
+Epoch 746:
+Accuracy:96.8436611124956
+
+Epoch 747:
+Accuracy:96.79038231831501
+
+Epoch 748:
+Accuracy:96.71819814555423
+
+Epoch 749:
+Accuracy:96.73882219491445
+
+Epoch 750:
+Accuracy:96.75171222576459
+
+Epoch 751:
+Accuracy:96.75085289037459
+
+Epoch 752:
+Accuracy:96.77491428129484
+
+Epoch 753:
+Accuracy:96.69929276697403
+
+Epoch 754:
+Accuracy:96.77319561051483
+
+Epoch 755:
+Accuracy:96.78436697058495
+
+Epoch 756:
+Accuracy:96.69499609002398
+
+Epoch 757:
+Accuracy:96.73194751179437
+
+Epoch 758:
+Accuracy:96.63827995428336
+
+Epoch 759:
+Accuracy:96.68726207151389
+
+Epoch 760:
+Accuracy:96.8445204478856
+
+Epoch 761:
+Accuracy:96.88319054043603
+
+Epoch 762:
+Accuracy:96.71905748094424
+
+Epoch 763:
+Accuracy:96.73280684718439
+
+Epoch 764:
+Accuracy:96.76030557966469
+
+Epoch 765:
+Accuracy:96.7070267854841
+
+Epoch 766:
+Accuracy:96.69499609002398
+
+Epoch 767:
+Accuracy:96.604765874073
+
+Epoch 768:
+Accuracy:96.84795778944564
+
+Epoch 769:
+Accuracy:96.83334908781548
+
+Epoch 770:
+Accuracy:96.80155367838513
+
+Epoch 771:
+Accuracy:96.81788105079532
+
+Epoch 772:
+Accuracy:96.73194751179437
+
+Epoch 773:
+Accuracy:96.81014703228523
+
+Epoch 774:
+Accuracy:96.72765083484433
+
+Epoch 775:
+Accuracy:96.74225953647449
+
+Epoch 776:
+Accuracy:96.76030557966469
+
+Epoch 777:
+Accuracy:96.7525715611546
+
+Epoch 778:
+Accuracy:96.84194244171557
+
+Epoch 779:
+Accuracy:96.70960479165413
+
+Epoch 780:
+Accuracy:96.87287851575591
+
+Epoch 781:
+Accuracy:97.02326220900756
+Updating weights
+
+Epoch 782:
+Accuracy:96.80585035533518
+
+Epoch 783:
+Accuracy:96.788663647535
+
+Epoch 784:
+Accuracy:96.64859197896347
+
+Epoch 785:
+Accuracy:96.70788612087412
+
+Epoch 786:
+Accuracy:96.8531138017857
+
+Epoch 787:
+Accuracy:96.78350763519494
+
+Epoch 788:
+Accuracy:96.86342582646581
+
+Epoch 789:
+Accuracy:96.85397313717571
+
+Epoch 790:
+Accuracy:96.75686823810464
+
+Epoch 791:
+Accuracy:96.86428516185582
+
+Epoch 792:
+Accuracy:96.89779924206618
+
+Epoch 793:
+Accuracy:96.76460225661474
+
+Epoch 794:
+Accuracy:96.696714760804
+
+Epoch 795:
+Accuracy:96.68554340073388
+
+Epoch 796:
+Accuracy:96.81014703228523
+
+Epoch 797:
+Accuracy:96.88404987582604
+
+Epoch 798:
+Accuracy:96.87631585731596
+
+Epoch 799:
+Accuracy:96.7981163368251
+
+Epoch 800:
+Accuracy:96.70788612087412
+
+Epoch 801:
+Accuracy:96.74225953647449
+
+Epoch 802:
+Accuracy:96.77319561051483
+
+Epoch 803:
+Accuracy:96.96139006092687
+
+Epoch 804:
+Accuracy:96.70358944392407
+
+Epoch 805:
+Accuracy:96.73968153030447
+
+Epoch 806:
+Accuracy:97.00607550120736
+
+Epoch 807:
+Accuracy:96.85397313717571
+
+Epoch 808:
+Accuracy:96.83248975242547
+
+Epoch 809:
+Accuracy:96.79210098909503
+
+Epoch 810:
+Accuracy:96.90209591901623
+
+Epoch 811:
+Accuracy:96.85912914951577
+
+Epoch 812:
+Accuracy:96.86686316802584
+
+Epoch 813:
+Accuracy:96.88920588816609
+
+Epoch 814:
+Accuracy:96.73194751179437
+
+Epoch 815:
+Accuracy:96.74741554881454
+
+Epoch 816:
+Accuracy:96.6881214069039
+
+Epoch 817:
+Accuracy:96.8625664910758
+
+Epoch 818:
+Accuracy:96.81358437384527
+
+Epoch 819:
+Accuracy:96.95709338397683
+
+Epoch 820:
+Accuracy:96.8256150693054
+
+Epoch 821:
+Accuracy:96.75772757349466
+
+Epoch 822:
+Accuracy:96.81788105079532
+
+Epoch 823:
+Accuracy:96.88748721738607
+
+Epoch 824:
+Accuracy:96.9450626885167
+
+Epoch 825:
+Accuracy:96.83936443554555
+
+Epoch 826:
+Accuracy:96.80069434299513
+
+Epoch 827:
+Accuracy:96.72936950562435
+
+Epoch 828:
+Accuracy:96.9081112667463
+
+Epoch 829:
+Accuracy:96.85741047873574
+
+Epoch 830:
+Accuracy:96.89264322972613
+
+Epoch 831:
+Accuracy:96.64687330818344
+
+Epoch 832:
+Accuracy:96.89522123589616
+
+Epoch 833:
+Accuracy:96.83163041703547
+
+Epoch 834:
+Accuracy:96.75514956732464
+
+Epoch 835:
+Accuracy:96.86772250341586
+
+Epoch 836:
+Accuracy:96.96139006092687
+
+Epoch 837:
+Accuracy:96.86342582646581
+
+Epoch 838:
+Accuracy:96.6606226744236
+
+Epoch 839:
+Accuracy:96.70530811470408
+
